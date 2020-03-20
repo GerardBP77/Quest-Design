@@ -15,8 +15,8 @@ Quests are a huge part of most video games, there must be a development behind i
 
 Investing adequate time in innovating and fitting the missions within the dynamics of the video game, can make it a differentiating element and make our game a success, such as Skyrim, The Legend of Zelda: The Breath of the Wild or The Witcher 3.
 
-![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/skyrimmission.jpg?raw=true)
-![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/tbowmissions.jpg?raw=true)
+
+
 ![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/themallwicher.jpg?raw=true)
 
 On this page I will try to answer the following questions:
@@ -56,11 +56,11 @@ A mission must be able to be representative of these three points:
 
 * It must be able to transmit: the feelings, the sensations, the thoughts that we want to provoke in the player while he performs the task that we have entrusted to him, must transcend the screen and enter his mind. The reasons that made a village what it is today, what happened among these children who fight for who can be a better hunter, why these monsters enter one territory and not another ... They broadly exemplify what can be going through the player's mind. This is information that we must add in a subtle way in our missions to provoke feelings and thoughts that go along the lines of the story we want to tell.
 
-![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/themallwicher.jpg?raw=true)
+![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/skyrimmission.jpg?raw=true)
 
 * Must be immersive: the player has a close connection to the game, enters it and participates directly in the action, is not reading or watching a movie. You must feel important while playing, we must create a sense of depth in the story, making you feel that the direction of the plot changes depending on the decisions you are making. If the mission does not give off the feeling of being part of the narrative, it will not be related to the characters and therefore not to the story, which will lead to a bad result in terms of mission design.
 
-![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/themallwicher.jpg?raw=true)
+![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/tbowmissions.jpg?raw=true)
 
 We must take perspective away from the game, what kind of game do we have, what kind of resources do we have? Can we do everything we want to do? Depending on the type of game being played, one type of resource or another will be used, a larger system or a more closed system can be used, puzzles or mini-games can be created, or perhaps only assassination missions are used.
 
@@ -69,7 +69,7 @@ In order for our mission system to be dynamic enough to be fast and have all tea
 
 **How do we start creating our mission system?**
 
-![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/themallwicher.jpg?raw=true)
+![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/sidequest.jpg?raw=true)
 
 After a first brainstorm, all are written, then the team will filter and select them. Try to avoid "cliches" and try to direct the team's thoughts to more original areas. Write a couple of short sentences: what would be the concept of the mission, its objective, what should the player do to complete it ... But in a very general way. The concept must be simple, but the main ideas must be clear and express a concise idea that indicates that the mission may have potential.
 
