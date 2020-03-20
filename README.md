@@ -15,10 +15,6 @@ Quests are a huge part of most video games, there must be a development behind i
 
 Investing adequate time in innovating and fitting the missions within the dynamics of the video game, can make it a differentiating element and make our game a success, such as Skyrim, The Legend of Zelda: The Breath of the Wild or The Witcher 3.
 
-
-
-![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/themallwicher.jpg?raw=true)
-
 On this page I will try to answer the following questions:
 
 * What are missions?
