@@ -11,9 +11,11 @@ subject Project 2, under supervision of lecturer
 
 Quests are a huge part of most video games, there must be a development behind it that propels the player to experience a sense of immersion and creates a closer relationship with the game. Many necessary games take a negative approach to Quest Design, giving it less relevance than it should have at the time of its creation, which can carry out a flat product development, evolution factors.
 
-Investing adequate time in innovating and fitting the missions within the dynamics of the video game, can make it a differentiating element and make our game a success, such as Oblivion, The Legend of Zelda: The Breath of the Wild or The Witcher 3.
+Investing adequate time in innovating and fitting the missions within the dynamics of the video game, can make it a differentiating element and make our game a success, such as Skyrim, The Legend of Zelda: The Breath of the Wild or The Witcher 3.
 
-(images)
+![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/skyrimmission.jpg?raw=true)
+![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/tbowmissions.jpg?raw=true)
+![](https://github.com/GerardBP77/Quest-Design/blob/master/docs/themallwicher.jpg?raw=true)
 
 On this page I will try to answer the following questions:
 * What are missions?
